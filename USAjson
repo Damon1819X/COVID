@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "id": "01",
-      "properties": { "name": "Alabama","pop":"4903185","Abb":"AL","Type":"4" },
+      "properties": { "name": "Alabama","pop":"4903185","Abb":"AL","Type":"4"  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1817,7 +1817,7 @@
     {
       "type": "Feature",
       "id": "16",
-      "properties": { "name": "Idaho", "pop":"1787065","Abb":"ID",,"Type":"1"},
+      "properties": { "name": "Idaho", "pop":"1787065","Abb":"ID","Type":"1" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1974,7 +1974,7 @@
     {
       "type": "Feature",
       "id": "18",
-      "properties": { "name": "Indiana","pop":"6732219","Abb":"IN",,"Type":"4" },
+      "properties": { "name": "Indiana","pop":"6732219","Abb":"IN","Type":"4" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
